@@ -118,7 +118,6 @@ Created by
 
 | Contributors | GitHub | Linkedin |
 | ----------- | ----------- | ----------- |
-| Shruti Pandit  | [GitHub](https://github.com/shrutipandit707) | [LinkedIn](https://www.linkedin.com/in/shruti-pandit-7b946883/) |
 | Allena Venkata Sai Abhishek | [GitHub](https://github.com/avs-abhishek123) | [LinkedIn](https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/) |
 
   feel free to contact us!
